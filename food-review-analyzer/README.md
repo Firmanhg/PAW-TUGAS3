@@ -5,7 +5,7 @@ Aplikasi web untuk menganalisis sentiment review produk menggunakan AI (Hugging 
 ## 👨‍💻 Dibuat Oleh
 - **Nama**: Firman H Gultom
 - **NIM**: 123140171
-- **GitHub**: [Link GitHub Anda]
+- **GitHub**: [https://github.com/Firmanhg/PAW-TUGAS3.git]
 
 ## 📋 Fitur
 
@@ -173,8 +173,6 @@ MIT License
 ## 📞 Contact
 
 Untuk pertanyaan atau saran, silakan hubungi:
-- GitHub: [github.com/username]
+- GitHub: [https://github.com/Firmanhg/PAW-TUGAS3.git]
 
 ---
-
-**Dibuat dengan ❤️ untuk tugas kuliah**
